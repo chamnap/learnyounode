@@ -3,6 +3,13 @@
 ### Installation
 
     $ npm install learnyounode -g
+    $ npm install bl strftime through2-map
+
+### Additional modules
+
+    https://github.com/rvagg/through2
+    https://github.com/brycebaril/through2-map
+    https://github.com/rvagg/bl
 
 ### Run
 
